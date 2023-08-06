@@ -1,1 +1,0 @@
-export const homepage = "https://github.com/SonMooSans/discord-bot-dashboard"
